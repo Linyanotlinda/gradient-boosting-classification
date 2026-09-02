@@ -1,6 +1,7 @@
 # Gradient Boosting Classification
 
-A small machine learning project exploring Gradient Boosting for binary classification using the Breast Cancer Wisconsin dataset from scikit-learn.
+An applied machine learning project exploring Gradient Boosting for binary classification using the Breast Cancer Wisconsin dataset from scikit-learn.
+The project focuses not only on predictive performance, but also on model validation, hyperparameter selection, and interpretability.
 
 ## Overview
 
